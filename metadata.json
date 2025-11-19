@@ -1,0 +1,5 @@
+{
+  "name": "FiscusAI - Sovereign Revenue Assistant",
+  "description": "A comprehensive consolidated revenue and tax analysis dashboard for Ministry of Finance officials, powered by Gemini 2.5 for real-time fiscal policy simulation, revenue forecasting, and anomaly detection.",
+  "requestFramePermissions": []
+}
